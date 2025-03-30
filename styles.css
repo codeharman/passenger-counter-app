@@ -12,6 +12,19 @@
   flex-direction: column;
 }
 
-.btn {
-  
+#btn {
+  background-color: #ffff00;
+  border: black 2px solid;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#btn:hover {
+  background-color: blue;
+  border: aliceblue 1px solid;
+  color: aliceblue;
+  transition: 0.3s ease-in-out;
+  font-size: 25px;
 }
