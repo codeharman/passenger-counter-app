@@ -1,4 +1,6 @@
-.container {
+.body {
   font-family: 'Courier New', Courier, monospace;
-  background-color: black;
+  background-color: #28282B;
+  color: aliceblue;
 }
+
