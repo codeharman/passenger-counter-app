@@ -22,7 +22,7 @@
 }
 
 #btn:hover {
-  background-color: blue;
+  background-color: red;
   border: aliceblue 1px solid;
   color: aliceblue;
   transition: 0.3s ease-in-out;
